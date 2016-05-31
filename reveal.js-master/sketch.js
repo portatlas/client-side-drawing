@@ -10,7 +10,7 @@ var thetaSlider;
 var heightSlider;
 
 function setup() {
-  createCanvas(1400, 700);
+  createCanvas(2400, 1100);
   w = width;
   period = random(50)
   dx = (TWO_PI / period) * xspacing;
